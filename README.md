@@ -1,4 +1,8 @@
 # simpleefy
+## Instructions
+
+Install Node.js(see [Dependencies](#dependencies)) and run the command: 'npm i'
+
 
 ## Dependencies
-* npm (run `npm i`) - [Download](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+* Node js - [Download](https://nodejs.org/en/download/)
